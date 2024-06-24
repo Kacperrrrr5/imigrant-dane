@@ -152,7 +152,7 @@ function isMouseOver(x, y, w, h) {
 
 function mousePressed() {
   if (isMouseOver(button2X, buttonY, buttonWidth, buttonHeight)) {
-    window.open('https://www.wp.pl', '_self');
+    window.open('https://kacperrrrr5.github.io/imigrant-zameldowanie/', '_self');
   }
 }
 
